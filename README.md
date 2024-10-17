@@ -50,6 +50,6 @@ function fetchPets(type = 'all') {
 import { fetchCategories } from './api.js';
 These ES6 features contribute to writing cleaner and more efficient JavaScript in modern web development.
 
-# Live link to the deployed project.
+# Live link to the deployed project:  https://dulcet-elf-63ad6f.netlify.app/
 
   
