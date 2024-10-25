@@ -3,7 +3,7 @@
 ## Short description of the project
 Peddy - Pet Adoption Platform is a web-based application designed to simplify and enhance the process of pet adoption. It serves as a bridge between animal shelters, rescues, and individuals looking to adopt pets, providing an intuitive interface where users can browse through various categories of animals available for adoption. The platform offers detailed profiles for each pet, including their health status, breed, age, and personality traits, to help prospective adopters find the right match. Additionally, Peddy promotes the adoption process with resources and guides, ensuring the journey from browsing to adopting is seamless and efficient.
 # 5 key features of the project
-Here are five key features of the Peddy - Pet Adoption Platform:
+Here are five key features of the Peddy - Pet Adoption Platform::
 
 - **Pet Category Browsing:** Users can browse through various categories such as dogs, cats, and other animals, with detailed filters for age, breed, and size to help them find the perfect match.
 
